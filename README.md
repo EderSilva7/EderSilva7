@@ -33,9 +33,8 @@ Atualmente, estou focado em evoluir minhas habilidades em backend e me preparar 
 - Next.js
 
 ---
-
-## 📊 GitHub Stats
 ![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=EderSilva7&show_icons=true&theme=dark)
+
 
 ---
 
