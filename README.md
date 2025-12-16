@@ -1,43 +1,55 @@
-# 👋 Olá, eu sou o Ed
+## 👋 Olá, eu sou o Ed
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (FIAP)  
-💻 Desenvolvedor Backend com foco em **Java & Spring Boot**  
-🚀 Interessado em APIs REST, segurança, banco de dados e cloud
+Desenvolvedor **Backend** com foco em **Java e Spring Boot**.  
+Gosto de trabalhar na parte lógica dos sistemas: regras de negócio, APIs, segurança e banco de dados.
 
----
-
-## 🧠 Sobre mim
-Sou desenvolvedor backend em formação, com experiência em projetos acadêmicos e pessoais utilizando Java, Spring Boot e banco de dados relacionais.  
-Gosto de entender **como os sistemas funcionam por trás**, criando APIs organizadas, seguras e bem estruturadas.
-
-Atualmente, estou focado em evoluir minhas habilidades em backend e me preparar para oportunidades de **estágio ou vaga júnior**.
+Atualmente finalizando **Análise e Desenvolvimento de Sistemas – FIAP**  
+Buscando oportunidade como **estagiário ou júnior backend**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias
 
-**Backend**
-- Java | Spring Boot | Spring Security
-- JPA / Hibernate
-- APIs REST
-- JWT
-
-**Banco de Dados**
-- PostgreSQL | MySQL
-
-**Outros**
-- Git & GitHub
-- Swagger / OpenAPI
-- Docker (básico)
-- Desenvolvimento Web (React/React Native)
-- Next.js
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</p>
 
 ---
-![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=EderSilva7&show_icons=true&theme=dark)
 
+## 📌 O que eu trabalho no backend
+- APIs REST com Spring Boot  
+- Autenticação e autorização com JWT  
+- Modelagem de dados e JPA / Hibernate  
+- Regras de negócio e validações  
+- Integração com APIs externas  
+
+---
+
+## 📊 Linguagens mais utilizadas
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderSilva7&layout=compact&theme=dark"/>
+</p>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EderSilva7&show_icons=true&theme=dark"/>
+</p>
 
 ---
 
 ## 🌐 Onde me encontrar
 - 💼 LinkedIn: https://www.linkedin.com/in/eder-silva-b92320337/
 - 📧 Email: edersouzasilva49@gmail.com
+
+
+
+
