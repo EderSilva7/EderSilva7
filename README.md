@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Ed
 
-<!--
-**EderSilva7/EderSilva7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (FIAP)  
+💻 Desenvolvedor Backend com foco em **Java & Spring Boot**  
+🚀 Interessado em APIs REST, segurança, banco de dados e cloud
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+Sou desenvolvedor backend em formação, com experiência em projetos acadêmicos e pessoais utilizando Java, Spring Boot e banco de dados relacionais.  
+Gosto de entender **como os sistemas funcionam por trás**, criando APIs organizadas, seguras e bem estruturadas.
+
+Atualmente, estou focado em evoluir minhas habilidades em backend e me preparar para oportunidades de **estágio ou vaga júnior**.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+**Backend**
+- Java | Spring Boot | Spring Security
+- JPA / Hibernate
+- APIs REST
+- JWT
+
+**Banco de Dados**
+- PostgreSQL | MySQL
+
+**Outros**
+- Git & GitHub
+- Swagger / OpenAPI
+- Docker (básico)
+- Desenvolvimento Web (React/React Native)
+- Next.js
+
+---
+
+## 📊 GitHub Stats
+![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+
+---
+
+## 🌐 Onde me encontrar
+- 💼 LinkedIn: https://www.linkedin.com/in/eder-silva-b92320337/
+- 📧 Email: edersouzasilva49@gmail.com
